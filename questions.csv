@@ -1,0 +1,5 @@
+Question,Answers,Explanation
+An integer is a number. A string can be a number of letters in quotation marks. Answer the following: Is the number 5 an integer or a string ,Integer,An integer is a number. A string can be a number of letters in quotation marks. Try Again.
+"The symbol # in Python is used for commenting, it is placed before the sentence begins. Turn ""I love coding"" into a comment: ",#I love coding,"The symbol # in Python is used for commenting, it is placed before the sentence begins. Try Again."
+"In Python, the print() function is used to ______ information to the console.",Print,"In Python, the print() function is used to print information to the console."
+"To check if two values are not equal in Python, you use the != operator. Fill in the blank: 2 _ 4",!=,"If two values are not equal in Python, you use the != operator. 2!=4."
